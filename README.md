@@ -170,3 +170,9 @@ The app handles common failure cases with clear messages instead of stack traces
 ## License
 
 Free to use and modify for learning purposes.
+---
+
+## Requirements
+
+- Java 21
+- Maven
